@@ -1,0 +1,17 @@
+*.o
+.DS_Store
+*~
+*.uvopt
+*.dep
+*.bak
+*.uvgui.*
+.project
+.settings
+.cproject
+*.uvoptx
+*.uvguix.*
+project/DebugConfig
+project/Listings
+project/Objects
+.vagrant/
+JLinkLog.txt
